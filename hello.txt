@@ -1,8 +1,2 @@
 More words.
 Adding text
-<<<<<<< HEAD
-More changes
-More content
-test text
-=======
->>>>>>> parent of e297693 (More changes to test out commit history)
